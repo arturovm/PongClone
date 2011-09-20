@@ -22,7 +22,7 @@ enum PLAYER_KEYS {
 };
 
 int main(int argv, char *argc[]) {
-    const char *font_file = "AppleGothic.ttf";
+    const char *font_file = "Arial Bold.ttf";
     ALLEGRO_DISPLAY *display = NULL;
     ALLEGRO_EVENT_QUEUE *event_queue = NULL;
     ALLEGRO_TIMER *timer = NULL;
